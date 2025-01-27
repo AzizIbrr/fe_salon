@@ -1,8 +1,45 @@
-# React + Vite
+# React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a React project powered by Vite for fast builds and efficient development. Follow the steps below to set up and run the project locally.
 
-Currently, two official plugins are available:
+## Requirements
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before starting, make sure you have the following installed:
+
+- **Node.js** (version 16 or higher)
+- **npm** (Node package manager) or **yarn**
+- **Git** for cloning the repository
+
+## Getting Started
+
+### 1. Clone the Repository
+
+Run the following command to clone this project to your local machine:
+
+```bash
+git clone https://github.com/AzizIbrr/fe_salon.git
+```
+
+### 2. Install Dependencies
+
+Navigate to the project directory and install the required dependencies using npm or yarn:
+
+```bash
+cd fe_salon
+npm install
+# or
+yarn install
+```
+
+### 3. Run the Development Server
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+### 4. Access the Application
+
+Open your browser and navigate to http://localhost:3000 to access the application.
+
